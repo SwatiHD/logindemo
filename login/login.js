@@ -7,5 +7,6 @@ document.querySelector('form').addEventListener('submit', (event)=>{
         alert("success");
      }else{
         alert("incorrect")
+        alert("hiiiii");
      }
 })
