@@ -6,7 +6,7 @@ document.querySelector('form').addEventListener('submit', (event)=>{
      if(username === 'swati' && password==='12345'){
         alert("success");
      }else{
-        alert("incorrect")
+        alert("wrong")
         alert("hellooo");
      }
 })
